@@ -3,7 +3,7 @@ $conn = mysqli_connect(
     'localhost',
     'root',
     '',
-    'kelasku'
+    'projek_kelasku'
 );
 
 if (!$conn) {
